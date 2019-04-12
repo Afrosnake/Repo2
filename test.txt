@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FCE9-D787
+
+ Directory of C:\Users\GOOR\Desktop\MyGitProject
+
+04/12/2019  03:06 AM    <DIR>          .
+04/12/2019  03:06 AM    <DIR>          ..
+04/12/2019  03:06 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,376,125,952 bytes free
